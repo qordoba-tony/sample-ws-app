@@ -1,0 +1,4 @@
+export const SET_TOKEN = 'SET_TOKEN';
+export const FETCH_SEGMENTS_WS = 'FETCH_SEGMENTS_WS';
+export const SET_SEGMENTS = 'SET_SEGMENTS';
+export const UPDATE_SEGMENT = 'UPDATE_SEGMENT';

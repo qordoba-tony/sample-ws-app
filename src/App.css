@@ -1,0 +1,79 @@
+.token-header {
+	font-weight: bold;
+}
+
+body {
+	box-sizing: border-box;
+	font-size: 13px;
+}
+
+.url {
+	font-weight: bold;
+	color: #5b4baf;
+}
+
+.app-div {
+	margin: 0 auto;
+	width: 700px;
+	margin-top: 100px;
+	border: 1px solid #e1e1e1;
+	padding: 10px;
+	border-radius: 4px;
+}
+
+.desc-list {
+	list-style: decimal;
+	font-size: 14px;
+}
+
+li {
+	padding: 5px;
+}
+
+.main-desc-container {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 200px;
+	height: 100vh;
+}
+
+.editor-div {
+	border: 1px solid #5b4baf;
+	border-radius: 4px;
+	padding: 5px;
+	margin-bottom: 3px;
+	display: inline-block;
+	width: 500px;
+	height: 40px;
+}
+
+.editor {
+	height: 100%;
+	padding: 0;
+}
+
+.segments-list {
+	list-style: none;
+}
+
+.project-info {
+	display: inline-block;
+	margin-left: 20px;
+	font-size: 13px;
+}
+
+.from {
+	font-size: 15px;
+	font-weight: bold;
+	color: #5b4baf;
+}
+
+.fetch-token-desc {
+	padding: 5px;
+}
+
+.login {
+	display: inline-block;
+	margin: 0 auto;
+}
